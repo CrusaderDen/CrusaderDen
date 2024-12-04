@@ -22,4 +22,3 @@
 
 ## Связаться со мной
 - [Telegram](https://t.me/crusaderDen)
-- [Email](mailto:rupo@list.ru)
