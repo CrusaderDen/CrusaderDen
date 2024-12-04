@@ -1,6 +1,7 @@
 # Привет, я Денис!
 
 Фронтенд-разработчик с опытом работы в создании веб-приложений.
+![Codewars Badge](https://www.codewars.com/users/CrusaderDen/badges/large)
 
 ## Мои основной стек
 - SASS
