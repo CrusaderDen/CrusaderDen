@@ -1,7 +1,6 @@
 # Привет, я Денис!
 
 Фронтенд-разработчик с опытом работы в создании веб-приложений.
-![Codewars Badge](https://www.codewars.com/users/CrusaderDen/badges/large)
 
 ## Мои основной стек
 - SASS
@@ -17,6 +16,9 @@
 - [Таск-менеджер на next.js+react, пет-проект](https://github.com/CrusaderDen/TaskTonic) ,  [деплой](https://todo.ivrupo.ru/)
 - [Приложение для учета персонала на vite+react, пет-проект](https://github.com/CrusaderDen/pizza-soft) ,  [деплой](https://pizza-soft.ivrupo.ru/)
 - [Лендинг торты](https://sweet37.ru/)
+
+## Статистики
+[![Codewars Badge](https://www.codewars.com/users/CrusaderDen/badges/large)](https://www.codewars.com/users/CrusaderDen)
 
 ## Связаться со мной
 - [Telegram](https://t.me/crusaderDen)
