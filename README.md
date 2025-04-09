@@ -10,7 +10,7 @@
 - Redux Toolkit + RTK Query
 - Next.js
 
-## Проекты
+## Проекты (деплой на какие-то проекты может временно не работать, так как экспериментирую на сервере)
 - [График компентенций на canvas js](https://github.com/CrusaderDen/skills_chart) ,  [деплой](https://skills-chart.ivrupo.ru/)
 - [Соц. сеть "Navaibe" - командный пет-проект (в разработке)](https://github.com/it-incubator-internship) ,  [деплой](https://navaibe.ru/)
 - [Таск-менеджер на next.js+react, пет-проект](https://github.com/CrusaderDen/TaskTonic) ,  [деплой](https://todo.ivrupo.ru/)
